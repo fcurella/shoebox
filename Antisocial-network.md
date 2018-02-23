@@ -1,1 +1,1 @@
-A social network with NONE of the addictive mechanics: no likes or comments. Additionally, people gets penalized for posting frequently: the more frequently they post, the less ranking their postings have.
+A social network with NONE of the addictive mechanics: no likes, comments, hashtags or trending topics. Additionally, people gets penalized for posting frequently: the more frequently they post, the less ranking their postings have.
